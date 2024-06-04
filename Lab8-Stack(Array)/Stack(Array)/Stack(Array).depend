@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1697693922 source:e:\cse 225\lab\lab8-stack(array)\stack(array)\main.cpp
+	<iostream>
+	"stacktype.h"
+
+1697636693 e:\cse 225\lab\lab8-stack(array)\stack(array)\stacktype.h
+	"stacktype.tpp"
+
+1697636693 e:\cse 225\lab\lab8-stack(array)\stack(array)\stacktype.tpp
+	"StackType.h"
+
